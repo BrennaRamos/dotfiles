@@ -1834,6 +1834,7 @@ button.link:visited:active {
 
 button.link>label {
   text-decoration-line: underline;
+  text-decoration-color: #322a2d;
 }
 
 /*****************
